@@ -1,0 +1,14 @@
+{
+  "name": "ersmapp-admin",
+  "version": "1.0.0",
+  "description": "Esta es la parte administrativa de la APP ERSM para gestionar las clases y los estudiantes puedan visualizarla en la APP móvil.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RSM (Jose Beltre)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
